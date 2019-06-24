@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="download">Download</string>
+    <string name="image_url">https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6BC1b6VWYLEXIk_lXJxpZam3qAxOW2TN8b0t_X-R8evluuUb8FQ</string>
+</resources>
